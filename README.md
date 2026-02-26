@@ -195,9 +195,5 @@ This starter template helps you:
 
 ---
 
-## 📄 License
 
-MIT License — free to use and modify.
-
----
 
