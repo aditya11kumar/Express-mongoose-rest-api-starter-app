@@ -49,7 +49,7 @@ express-rest-api-starter/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/aditya11kumar/Express-mongoose-rest-api-starter-app.git
 cd express-rest-api-starter
 ```
 
