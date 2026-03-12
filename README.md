@@ -46,7 +46,7 @@ express-rest-api-starter/
 
 ```bash
 git clone https://github.com/aditya11kumar/Express-mongoose-rest-api-starter-app.git
-cd Express-mongoose-rest-api-starter-app.git/express-rest-api-starter
+cd Express-mongoose-rest-api-starter-app/express-rest-api-starter
 ```
 
 ### 2️⃣ Install dependencies
