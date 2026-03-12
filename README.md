@@ -87,6 +87,23 @@ JWT_SECRET=your_super_secret_key
 
 ---
 
+###🧹 Remove Original Git History (Optional)
+
+If you want to use this project as a fresh repository without the previous Git history, delete the existing .git folder and initialize a new repository.
+
+rm -rf .git
+git init
+git add .
+git commit -m "Initial commit"
+
+Then connect it to your own GitHub repository:
+
+git remote add origin <your-repo-url>
+git branch -M main
+git push -u origin main
+
+This will make the project a completely new repository with no previous commit history.
+---
 ## ▶ Running the App
 
 ### Development Mode (recommended)
